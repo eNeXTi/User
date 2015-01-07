@@ -11,7 +11,7 @@
  * @author Stoyan Revov <st.revov@gmail.com>
  * @author Martin Briglia <martin@mgscreativa.com>
  *
- * CsnUser Configuration
+ * CsnUser  Configuration
  *
  * If you have a ./config/autoload/ directory set up for your project, you can
  * drop this config file in it and change the values as you wish.
